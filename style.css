@@ -52,3 +52,20 @@ nav ul li a {
   color: #fff;
   cursor: pointer;
 }
+.header{
+  background-color: aqua;
+
+}
+.title{
+  text-align:center;
+  color: blanchedalmond;
+  font-size: 30px;
+  font-weight: bold;
+}
+.title-description{
+  text-align: center;
+  color: aliceblue;
+  font-size: 15px;
+  font:serif;
+
+}
